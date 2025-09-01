@@ -9,14 +9,16 @@
   "portfolioImage": "/images/portfolio.webp",
   "email": "sebasq134a@gmail.com",
   "linkedin": "https://www.linkedin.com/in/sebastian-betancur-hincapie-30665a15b/",
- 
+  "instagram": "https://www.instagram.com/efeele.dev/",
+  "youtube": "https://www.youtube.com/@efeeledev",
   "alias": "Sebb",
   "contactSectionTitle": "Ready to take your idea to the next level?",
   "contactSectionSubtitle": "Let's work together.",
   "contactSectionButtonText": "Contact Me",
   "contactSectionButtonIcon": "paperplane",
   "techsTitle": "TECHS",
- 
+  "instagramIconName": "instagram",
+  "youtubeIconName": "youtube",
   "githubIconName": "github",
   "linkedinIconName": "linkedin",
   "emailIconName": "envelope",
