@@ -69,11 +69,11 @@ export const languages: Record<string, Language> = {
     name: "Notion",
     iconName: "notion",
   },
-    meta: {
+  meta: {
     name: "Meta",
     iconName: "meta",
   },
-    gempages: {
+  gempages: {
     name: "Gempages",
     iconName: "gempages",
   }
