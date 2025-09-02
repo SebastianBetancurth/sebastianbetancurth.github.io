@@ -80,5 +80,6 @@ export const languages: Record<string, Language> = {
 };
 
 export const getLanguage = (lang: string): Language => {
-  return languages[lang] || languages.html;
-}; 
+  const key = (lang ?? "").toLowerCase().trim();
+  return languages[key] || languages.html;
+};
