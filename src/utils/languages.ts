@@ -29,7 +29,7 @@ export const languages: Record<string, Language> = {
     iconName: "mysql",
   },
   shopify: {
-    name: "Shopfy",
+    name: "Shopify",
     iconName: "shopify",
   },
   node: {
