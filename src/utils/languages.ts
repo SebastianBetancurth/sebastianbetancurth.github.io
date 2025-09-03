@@ -30,7 +30,7 @@ export const languages: Record<string, Language> = {
   },
   shopify: {
     name: "Shopify",
-    iconName: "shopify.svg",
+    iconName: "javascript",
   },
   node: {
     name: "Node.js",
