@@ -3,10 +3,12 @@ layout:  /src/layouts/ProjectLayout.astro
 title: 'EyraBrand'
 pubDate: 2025-04-05
 description: 'Complete Shopify store development with the Marble theme, using Liquid, CSS, HTML, and JavaScript. store: https://www.eyrabrand.com'
+refer: https://www.eyrabrand.com
 languages: ["shopify", "css", "html", "javascript"]
 image:
   url: "/images/projects/eyrabrand.png"
   alt: "Thumbnail of Astro arches."
+
 --- 
 
 **NeonMint** is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.
