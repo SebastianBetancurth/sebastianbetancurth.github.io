@@ -7,6 +7,7 @@ languages: ["shopify", "css", "html", "javascript"]
 image:
   url: "/images/projects/pampera.png"
   alt: "Thumbnail of Astro arches."
+url: "https://pampera-mx.com"
 --- 
 
 **NeonMint** is a modern, minimalist web template created for developers, designers, and digital creatives. This project aims to offer an elegant and functional visual experience, combining a dark-toned aesthetic with mint green accents to highlight content without distractions.

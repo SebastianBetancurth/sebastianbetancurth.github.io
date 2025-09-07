@@ -2,12 +2,13 @@
 layout:  /src/layouts/ProjectLayout.astro
 title: 'EyraBrand'
 pubDate: 2025-04-05
-description: 'Complete Shopify store development with the Marble theme, using Liquid, CSS, HTML, and JavaScript. store: https://www.eyrabrand.com'
+description: 'Complete Shopify store development with the Marble theme, using Liquid, CSS, HTML, and JavaScript.'
 refer: https://www.eyrabrand.com
 languages: ["shopify", "css", "html", "javascript"]
 image:
   url: "/images/projects/eyrabrand.png"
   alt: "Thumbnail of Astro arches."
+url: "https://www.eyrabrand.com"
 
 --- 
 
