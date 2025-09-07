@@ -1,11 +1,11 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
-title: 'NeonMint'
+title: 'Pampera'
 pubDate: 2025-04-05
-description: 'NeonMint is a modern, minimalist template crafted for developers and digital creatives.'
-languages: ["astro", "tailwind", "cloudflare", "javascript","vercel"]
+description: 'Creation of Shopify stores and product pages using Liquid, CSS, JavaScript, and HTML.'
+languages: ["shopify", "css", "html", "javascript","liquid"]
 image:
-  url: "/images/projects/neonmint.webp"
+  url: "/images/projects/pampera.png"
   alt: "Thumbnail of Astro arches."
 --- 
 
