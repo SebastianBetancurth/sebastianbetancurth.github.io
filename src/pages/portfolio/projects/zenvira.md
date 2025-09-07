@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Zenvira'
-pubDate: 2025-04-05
+pubDate: 2025-03-23
 description: 'Creation of landing product pages  and  store  using Gempages, Shrine, Liquid, CSS, JavaScript, and HTML.'
 languages: ["shopify", "css", "html", "javascript"]
 image:

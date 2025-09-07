@@ -1,7 +1,7 @@
 ---
 layout:  /src/layouts/ProjectLayout.astro
 title: 'Pampera'
-pubDate: 2025-04-05
+pubDate: 2022-03-21
 description: 'Creation of Shopify stores and product pages using Liquid, CSS, JavaScript, and HTML.'
 languages: ["shopify", "css", "html", "javascript"]
 image:
