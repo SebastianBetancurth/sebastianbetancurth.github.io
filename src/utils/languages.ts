@@ -32,10 +32,7 @@ export const languages: Record<string, Language> = {
     name: "Shopify",
     iconName: "shopify2",
   },
-  liquid: {
-    name: "Liquid",
-    iconName: "liquid",
-  },
+
   node: {
     name: "Node.js",
     iconName: "node",
